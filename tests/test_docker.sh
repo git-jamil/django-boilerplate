@@ -10,8 +10,8 @@ set -x
 mkdir -p .cache/docker
 cd .cache/docker
 
-# create the project using the default settings in dxh_py.json
-dxh_py ../../ --no-input --overwrite-if-exists use_docker=y "$@"
+# create the project using the default settings in devxhub_python.json
+devxhub_python ../../ --no-input --overwrite-if-exists use_docker=y "$@"
 cd my_awesome_project
 
 # make sure all images build

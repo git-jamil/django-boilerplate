@@ -33,7 +33,7 @@ jobs:
         run: pre-commit autoupdate
 
       - name: Autoupdate generated projects
-        working-directory: "{{dxh_py.project_slug}}"
+        working-directory: "{{devxhub_python.project_slug}}"
         run: pre-commit autoupdate
 
       - name: Create Pull Request

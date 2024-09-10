@@ -10,8 +10,8 @@ set -x
 mkdir -p .cache/bare
 cd .cache/bare
 
-# create the project using the default settings in dxh_py.json
-dxh_py ../../ --no-input --overwrite-if-exists use_docker=n "$@"
+# create the project using the default settings in devxhub_python.json
+devxhub_python ../../ --no-input --overwrite-if-exists use_docker=n "$@"
 cd my_awesome_project
 
 chmod +x ./utility/install_os_dependencies.sh

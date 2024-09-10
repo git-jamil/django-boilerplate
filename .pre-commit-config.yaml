@@ -1,4 +1,4 @@
-exclude: "{{dxh_py.project_slug}}|.github/contributors.json|CHANGELOG.md|CONTRIBUTORS.md"
+exclude: "{{devxhub_python.project_slug}}|.github/contributors.json|CHANGELOG.md|CONTRIBUTORS.md"
 default_stages: [commit]
 
 default_language_version:

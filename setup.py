@@ -13,7 +13,7 @@ with open("README.md") as readme_file:
 setup(
     name="django-boilerplate",
     version=version,
-    description=("A dxh_py template for creating production-ready " "Django projects quickly."),
+    description=("A devxhub_python template for creating production-ready " "Django projects quickly."),
     long_description=long_description,
     author="DEVxHUB",
     author_email="tech@devxhub.com",
@@ -35,7 +35,7 @@ setup(
         "Topic :: Software Development",
     ],
     keywords=(
-        "dxh_py, Python, projects, project templates, django, "
+        "devxhub_python, Python, projects, project templates, django, "
         "skeleton, scaffolding, project directory, setup.py"
     ),
 )

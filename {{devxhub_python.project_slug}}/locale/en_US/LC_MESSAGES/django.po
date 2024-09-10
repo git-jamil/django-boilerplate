@@ -1,0 +1,12 @@
+# Translations for the {{ devxhub_python.project_name }} project
+# Copyright (C) {% now 'utc', '%Y' %} {{ devxhub_python.author_name }}
+# {{ devxhub_python.author_name }} <{{ devxhub_python.email }}>, {% now 'utc', '%Y' %}.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: {{ devxhub_python.version }}\n"
+"Language: en-US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"

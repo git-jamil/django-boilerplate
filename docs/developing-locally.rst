@@ -12,7 +12,7 @@ Make sure to have the following on your host:
 * Python 3.12
 * PostgreSQL_.
 * Redis_, if using Celery
-* dxh_py_
+* devxhub_python_
 
 First things first.
 
@@ -254,4 +254,4 @@ If you've opted for Gulp or Webpack as front-end pipeline, the project comes con
 Summary
 -------
 
-Congratulations, you have made it! Keep on reading to unleash full potential of dxh_py Django.
+Congratulations, you have made it! Keep on reading to unleash full potential of devxhub_python Django.

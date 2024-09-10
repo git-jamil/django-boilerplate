@@ -162,7 +162,7 @@ html_static_path = ["_static"]
 # html_file_suffix = None
 
 # Output file base name for HTML help builder.
-htmlhelp_basename = "dxh_py-djangodoc"
+htmlhelp_basename = "devxhub_python-djangodoc"
 
 
 # -- Options for LaTeX output --------------------------------------------------
@@ -181,9 +181,9 @@ latex_elements = {
 latex_documents = [
     (
         "index",
-        "dxh_py-django.tex",
-        "dxh_py-django Documentation",
-        "dxh_py-django",
+        "devxhub_python-django.tex",
+        "devxhub_python-django Documentation",
+        "devxhub_python-django",
         "manual",
     )
 ]
@@ -216,8 +216,8 @@ latex_documents = [
 man_pages = [
     (
         "index",
-        "dxh_py Django",
-        "dxh_py Django documentation",
+        "devxhub_python Django",
+        "devxhub_python Django documentation",
         ["DevxhuB"],
         1,
     )
@@ -235,11 +235,11 @@ man_pages = [
 texinfo_documents = [
     (
         "index",
-        "dxh_py Django",
-        "dxh_py Django documentation",
+        "devxhub_python Django",
+        "devxhub_python Django documentation",
         "DevxhuB",
-        "dxh_py Django",
-        "A dxh_py template for creating production-ready " "Django projects quickly.",
+        "devxhub_python Django",
+        "A devxhub_python template for creating production-ready " "Django projects quickly.",
         "Miscellaneous",
     )
 ]

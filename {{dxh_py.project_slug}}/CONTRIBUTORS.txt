@@ -1,1 +1,0 @@
-{{ dxh_py.author_name }}

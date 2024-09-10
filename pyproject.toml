@@ -8,7 +8,7 @@ norecursedirs = [
     "*/static/*",
     "docs",
     "venv",
-    "*/{{dxh_py.project_slug}}/*",
+    "*/{{devxhub_python.project_slug}}/*",
 ]
 
 

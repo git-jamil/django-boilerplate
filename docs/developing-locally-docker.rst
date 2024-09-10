@@ -252,7 +252,7 @@ If you want to add some sort of social authentication with a OAuth provider such
 
 Here is a link to an article on `how to add HTTPS using Nginx`_ to your local docker installation. This also includes how to serve files from the ``media`` location, in the event that you are want to serve user-uploaded content.
 
-.. _`how to add HTTPS using Nginx`: https://afroshok.com/dxh_py-https
+.. _`how to add HTTPS using Nginx`: https://afroshok.com/devxhub_python-https
 
 Webpack
 ~~~~~~~
